@@ -1,0 +1,29 @@
+# Ignorer le dossier venv
+venv/
+autre/
+# Ignorer les fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les fichiers de configuration d'IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers temporaires
+*.swp
+*.bak
+
+# Ignorer les fichiers de tests générés
+*.coverage
+*.tox/
+
+# Ignorer le fichier d'environnement virtuel
+env/
+
+# Ignorer les fichiers de dépendances
+node_modules/
